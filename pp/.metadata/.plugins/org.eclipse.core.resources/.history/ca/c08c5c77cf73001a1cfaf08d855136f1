@@ -1,0 +1,5 @@
+package com.capgemini.librarymanagementsystemjdbc1.validation;
+
+public class Validation {
+
+}

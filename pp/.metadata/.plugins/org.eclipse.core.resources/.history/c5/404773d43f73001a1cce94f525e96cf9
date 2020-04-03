@@ -1,0 +1,10 @@
+package com.capgemini.librarymanagementsystem.db;
+
+import java.util.LinkedList;
+
+public class LibraryDB {
+	public static final LinkedList<Book> BOOKS = new LinkedList<Book>(); 
+	public static final LinkedList<Admin> ADMIN = new LinkedList<Admin>();
+	public static final LinkedList<User> USER = new LinkedList<User>();
+	public static final LinkedList<RequestBean> REQUEST = new LinkedList<RequestBean>();
+}
